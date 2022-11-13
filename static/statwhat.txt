@@ -1,0 +1,3 @@
+this is a static page which will b constant when user askes for urls. in settings.py 
+go to static.
+there staticfiles_dirs sets the path where static files are stored .
